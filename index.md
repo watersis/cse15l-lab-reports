@@ -1,6 +1,6 @@
 hello
 *aaaaaaaaaaaa*
-**h**
+**hello**
 # My name is Luowei
 ## CSE15L
 [Link](https://tutorial.math.lamar.edu/classes/calcii/powerseriesandfunctions.aspx)
@@ -9,11 +9,12 @@ hello
 * 1
 * 2
 * 3
-1. 1
-2. 234
-3. 3
-4. 4
-5. 5
+
+1) 1
+2) 234
+3) 3
+4) 4
+5) 5
 Line:
 
 ---
