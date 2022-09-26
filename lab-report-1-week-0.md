@@ -1,1 +1,1 @@
-![Image](text=%2FUsers%2Fwangluowei%2FDocuments%2FGitHub%2Fcse15l-lab-reports%2FScreen+Shot+2022-09-25+at+6.48.12+PM.png
+![Image](text=%2FUsers%2Fwangluowei%2FDocuments%2FGitHub%2Fcse15l-lab-reports%2FScreen+Shot+2022-09-25+at+6.48.12+PM.png)
