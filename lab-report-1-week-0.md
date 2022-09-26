@@ -1,1 +1,1 @@
-![Image](/Users/wangluowei/Documents/GitHub/cse15l-lab-reports/Screen Shot 2022-09-25 at 6.48.12 PM.png)
+![Image](Screen Shot 2022-09-25 at 6.48.12 PM.png)
