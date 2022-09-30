@@ -22,7 +22,7 @@ Type in command $ssh-keygen in your terminal, then press enter by three times. I
 ![Image](screenshot6.png)
 ![Image](screenshot7.png)
 * Optimizing Remote Running<br>
-To save time, you can type $ ssh cs15lfa22@ieng6.ucsd.edu "ls" where ls is the command you want to enter. In this way, you directly run the command onserver and then exit. We can run two commands at the same time by using semicolon to connect them.<br>
+To save time, you can type $ ssh cs15lfa22zz@ieng6.ucsd.edu "xx" where xx is the command you want to enter. In this way, you directly run the command onserver and then exit. We can run two commands at the same time by using semicolon to connect them.<br>
 ![Image](screenshot8.png)
 
 
