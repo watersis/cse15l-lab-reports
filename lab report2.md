@@ -1,4 +1,5 @@
 Installing VScode
+<<<<<<< HEAD
 ![Image](screenshot1.png)
 Remotely Connecting
 ![Image](screenshot2.png)
@@ -12,4 +13,5 @@ Setting an SSH Key
 ![Image](screenshot7.png)
 Optimizing Remote Running
 ![Image](screenshot8.png)
+
 
