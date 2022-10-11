@@ -21,7 +21,7 @@ Then, copy the file to server by using the command "scp". Run this command with 
 Type in command $ssh-keygen in your terminal, then press enter by three times:<br>
 Enter file in which to save the key (/Users/joe/.ssh/id_rsa): /Users/joe/.ssh/id_rsa <br>
 Enter passphrase (empty for no passphrase): <br>
-Enter same passphrase again:<br>  
+Enter same passphrase again: <br>  
 login to remote and type "mkdir .ssh".(Ifyour .ssh already exists as mine, skip this step. <br>
 Type "scp /Users/joe/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys". Then, you can login and run scp without entering your password.
 ![Image](screenshot6.png)
