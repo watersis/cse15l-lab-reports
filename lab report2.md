@@ -18,7 +18,7 @@ Then, copy the file to server by using the command "scp". Run this command with 
 ![Image](screenshot4.png)
 ![Image](screenshot5.png)
 * Setting an SSH Key<br>
-Type in command $ssh-keygen in your terminal, then press enter by three times. If your .ssh already exists as mine, skip this step. Then, logout and type in $scp /Users/joe/.ssh/id_rsa.pub cs15lfa22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys on your client. Copy the public key to a particular location on the server, and the private key in a particular location on the client. Then you will find out that you can log in and use scp without password. If your .ssh does not already exists, log in to remote and run "mkdir .ssh", and then logout. Then type in scp /Users/joe/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys.<br>
+Type in command $ssh-keygen in your terminal, then press enter by three times(empty for no passphrase). If your .ssh already exists as mine, skip this step. Then, logout and type in scp /Users/joe/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys on your client. Copy the public key to a particular location on the server, and the private key in a particular location on the client. Then you will find out that you can log in and use scp without password. If your .ssh does not already exists, log in to remote and run "mkdir .ssh", and then logout. Then type in scp /Users/joe/.ssh/id_rsa.pub cs15lfa22@ieng6.ucsd.edu:~/.ssh/authorized_keys.<br>
 ![Image](screenshot6.png)
 ![Image](screenshot7.png)
 * Optimizing Remote Running<br>
