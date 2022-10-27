@@ -45,7 +45,7 @@ wangluowei@wangluoweideMacBook-Air technical % find . -type d
 ```
 wangluowei@wangluoweideMacBook-Air technical % find . -type d -empty
 ```
--type f List all files in 911report.
+-type f list all files in 911report.
 ```
 wangluowei@wangluoweideMacBook-Air technical % cd 911report
 wangluowei@wangluoweideMacBook-Air 911report % find . -type f
@@ -112,7 +112,7 @@ wangluowei@wangluoweideMacBook-Air 911report % find . -atime -100
 ./chapter-10.txt
 ./chapter-11.txt
 ```
-No file was modified 1 days ago.
+No file was modified 1 day ago.
 ```
 wangluowei@wangluoweideMacBook-Air 911report % find . -atime 1
 ```
