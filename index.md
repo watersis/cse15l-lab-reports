@@ -25,4 +25,4 @@ print 'indent 4 spaces'
 
 [Lab Report 1](https://watersis.github.io/cse15l-lab-reports/lab-report-1-week-0.html)
 [Lab Report 3](https://watersis.github.io/cse15l-lab-reports/labreport33.html)
-[Lab Report 4](https://watersis.github.io/cse15l-lab-reports/Labreport4.html)
+[Lab Report 4](https://watersis.github.io/cse15l-lab-reports/labreport4.html)
