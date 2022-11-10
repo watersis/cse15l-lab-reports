@@ -1,6 +1,6 @@
 # Part1
 I try to Changing the name of the start parameter and its uses to base.
-The sequence of keys I used:``` :12,26s/start/base/g<Enter>:w<Enter>```<br>
+The sequence of keys I used:```:12,26s/start/base/g<Enter>:w<Enter>```<br>
 ```:12,26s/start/base/g ``` 
 This command can substitue "start" by "base" between line 12 and 26.<br>
 ![Image](Picture1.png)
