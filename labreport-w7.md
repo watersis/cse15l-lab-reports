@@ -1,4 +1,4 @@
-#Part1
+# Part1
 :12,26s/start/base/g   This command can substitue "start" by "base" between line 12 and 26.<br>
 ![Image](Picture1.png)
 <Enter>   After we press enter, we can see 3 substitutions happen on these 3 lines.<br>
