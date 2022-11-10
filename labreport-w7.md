@@ -1,8 +1,10 @@
 # Part1
+I try to Changing the name of the start parameter and its uses to base.
+The sequence of keys I used:``` :12,26s/start/base/g<Enter>:w<Enter>```<br>
 ```:12,26s/start/base/g ``` 
 This command can substitue "start" by "base" between line 12 and 26.<br>
 ![Image](Picture1.png)
- ```<Enter>```   After we press enter, we can see 3 substitutions happen on these 3 lines.<br>
+After we press ```<Enter>```, we can see 3 substitutions happen on these 3 lines.<br>
 ![Image](Picture2.png)
  ```:w<Enter>  ```The change is saved. <br>
 ![Image](Picture3.png)
