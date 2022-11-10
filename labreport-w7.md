@@ -1,9 +1,10 @@
 # Part1
- :12,26s/start/base/g   This command can substitue "start" by "base" between line 12 and 26.<br>
+```:12,26s/start/base/g ``` 
+This command can substitue "start" by "base" between line 12 and 26.<br>
 ![Image](Picture1.png)
- <Enter>   After we press enter, we can see 3 substitutions happen on these 3 lines.<br>
+ ```<Enter>  ``` After we press enter, we can see 3 substitutions happen on these 3 lines.<br>
 ![Image](Picture2.png)
- :w<Enter>   The change is saved. <br>
+ ```:w<Enter>  ```The change is saved. <br>
 ![Image](Picture3.png)
 # Part2
 I try to change the TestDocSearch.java of the repository week6-skill-demo1 that I have stored in remote server. Change “There are 10 total files to search” to “There are 1391 total files to search”.<br>
